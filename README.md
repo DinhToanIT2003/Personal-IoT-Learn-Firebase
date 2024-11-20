@@ -1,5 +1,11 @@
 # Test the data processing stream between ESP, Firebase and Python
 
+## Before you move on
+"This project is a personal testing initiative and is not intended for teaching purposes. It is neither an official course nor designed as primary learning material. Please refrain from using it as a main resource for educational purposes."
+
+## Warning
+"Use this project with caution. It is a personal test project and not intended for educational purposes. Proceed at your own risk."
+
 # Data Processing Stream
 
 1. Sensor -> ESP
